@@ -4,7 +4,6 @@
 
 > Hello-rails-react is a rails and react app. This app gets data from the rails database and with the help of redux it gives react what to display using api calls. click the "Get Greetings" button and see how to say Hello in five languages!
 
-![](./app/assets/images/rails-react.png)
 
 ## [Live link]()
 coming soon!
@@ -43,9 +42,9 @@ Coming soon
 
 ## Author
 
-👤 **Tchilo**
+👤 **Ellis**
 
-- GitHub: [@Tchilo](https://github.com/Tchilo)
+- GitHub: [@mwanawabangona](https://github.com/mwanawabangona)
 
 ## 🤝 Contributing
 
