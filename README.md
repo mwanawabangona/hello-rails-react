@@ -1,24 +1,65 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello-rails-react!
 
-Things you may want to cover:
+> Hello-rails-react is a rails and react app. This app gets data from the rails database and with the help of redux it gives react what to display using api calls. click the "Get Greetings" button and see how to say Hello in five languages!
 
-* Ruby version
 
-* System dependencies
+## [Live link]()
+coming soon!
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby on Rails
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+### Setup
+To get a copy of this project follow the steps below
+- clone this project/download the zip file:
+```
+git clone git@github.com:Tchilo/hello-rails-react.git
+cd hello-rails-react
+```
+- Run 
+```
+rails db:seed
+```
+- To see the blog live on your computer run the following in two different terminals:
 
-* Deployment instructions
+```
+rails s
 
-* ...
+./bin/webpack -w
+```
+
+
+### Deployment
+Coming soon
+
+
+
+## Author
+
+👤 **Ellis**
+
+- GitHub: [@mwanawabangona](https://github.com/mwanawabangona)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
+
+
